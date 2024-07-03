@@ -1,1 +1,1 @@
-#### Date and Time Picker# date-time-picker
+# date-time-picker
